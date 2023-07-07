@@ -1,0 +1,9 @@
+---
+collections:
+  - name: dellemc.powerscale
+    version: "1.9.0"
+    source: https://galaxy.ansible.com
+    
+python:
+  - name: isi_sdk_9_1_0
+    version: "0.2.12"
